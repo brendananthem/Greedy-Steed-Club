@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa9Cc0f73eF4342a6Ccd019e0B28E024Ae939AAB0",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa9Cc0f73eF4342a6Ccd019e0B28E024Ae939AAB0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Greedy Steed Club",
+  "SYMBOL": "GSC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/greedy-steed-club",
+  "SHOW_BACKGROUND": true
+}
